@@ -5,7 +5,7 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 import Card from './Card'
-
+// this is product file page for web app 
 
 const Product = ({items,cart,setCart}) => {
 
